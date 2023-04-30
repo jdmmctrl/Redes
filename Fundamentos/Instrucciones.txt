@@ -1,0 +1,6 @@
+ipconfig/all
+
+https://aprendaredes.com/cgi-bin/ipcalc/ipcalc_cgi1
+
+Mascara de sub red
+
